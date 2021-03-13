@@ -1,3 +1,6 @@
+// brian taylor vann
+// timestep
+
 import type { TimeBangers, BangerBridge } from "./timestep.ts";
 import { Timestep, getSums } from "./timestep.ts";
 
